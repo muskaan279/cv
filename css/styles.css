@@ -1,20 +1,39 @@
 body{
-  background-color:#ffc4a3;
-  font-family: Georgia, serif;
-}
-hr{
-  border-style: dotted none none none;
-  border-width: 5px;
-  border-color:grey;
-  height: 0px;
-  width:5%;
-}
-h3
-{
-  font-family: Georgia, serif;
-  color:#303960;
+  background-color: white;
+  text-align: center;
+  font-family: 'Merriweather', serif;
 }
 h1{
-  font: Georgia, serif ;
-  color: #303960;
+  margin-top:0px;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+font-family: 'Montserrat', sans-serif;
+}
+.img-mine{
+  position: relative;
+  width: 20%;
+}
+.top-container{
+  background-color:#E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.top-img{
+  position:relative;
+  left: 140px;
+}
+.mid-img{
+  position: relative;
+  right:200px;
 }
